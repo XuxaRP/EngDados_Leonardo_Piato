@@ -1,4 +1,5 @@
 ## MVP para sprint Engenharia de Dados da pós graduação em Ciência de Dados e Analytics da PUC-Rio
+Leonardo Fernando Piato
 
 Projeto executado no Databricks, com exportação para o GitHub. Para acessar o projeto, basta clicar no arquivo [Mvp_final.ipynb](https://github.com/XuxaRP/EngDados_Leonardo_Piato/blob/main/Mvp_final.ipynb)
 
